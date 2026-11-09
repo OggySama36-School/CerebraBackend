@@ -1,0 +1,23 @@
+# Biên dịch
+*.exe
+*.test
+*.out
+bin/
+tmp/
+doanbackend
+
+# Kết quả đo độ phủ test
+*.cover
+coverage.txt
+
+# Biến môi trường
+.env
+.env.*
+!.env.example
+
+# Editor và hệ điều hành
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
