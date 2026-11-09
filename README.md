@@ -75,7 +75,7 @@ Yêu cầu:
   "Residence_type": "Urban",
   "avg_glucose_level": 150,
   "bmi": 50,
-  "smoking_status": "never smoked"
+  "smoking_status": "never smoked",
 }
 ```
 
